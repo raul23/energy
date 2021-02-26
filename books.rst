@@ -15,8 +15,7 @@ Entropy
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
   * "This book outlines the **history** of the formulation of these two notions." [EnergyAndEntropy]_
   
-* Ben-Naim, Arieh. (2010) `Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a
-Law of Nature`_. World Scientific.
+* Ben-Naim, Arieh. (2010) `Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a Law of Nature`_. World Scientific.
 
   * This is a sequel to the author's book entitled *Entropy Demystified* (Published by World Scientific, 2007).
   
