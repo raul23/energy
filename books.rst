@@ -7,7 +7,9 @@ Energy-related books
    :backlinks: top
 
 Entropy
-=======
+======
+**NOTE:** books primarily focused on entropy
+
 * Alekseev, G.N. (1986). *Energy and Entropy*. Moscow: Mir Publishers.
 
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
