@@ -11,6 +11,7 @@ Entropy
 * Alekseev, G.N. (1986). *Energy and Entropy*. Moscow: Mir Publishers.
 
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
+  * "This book outlines the **history** of the formulation of these two notions."
 
 Thermodynamics
 ==============
