@@ -1,6 +1,10 @@
 ====================
 Energy-related books
 ====================
+.. contents:: **Contents**
+   :depth: 3
+   :local:
+   :backlinks: top
 
 Books on entropy
 ================
