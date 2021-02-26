@@ -45,6 +45,6 @@ References
 .. [RefrigeratorUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 
 .. URLs
-.. _Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a Law of Nature: https://www.amazon.com/Discover-Entropy-Second-Law-Thermodynamics/dp/9814299758
+.. _Discover Entropy and the Second Law of Thermodynamics\: A Playful Way of Discovering a Law of Nature: https://www.amazon.com/Discover-Entropy-Second-Law-Thermodynamics/dp/9814299758
 .. _Entropy and its Physical Meaning: https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. _List of textbooks in thermodynamics and statistical mechanics: https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics
