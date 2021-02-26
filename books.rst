@@ -17,7 +17,7 @@ Entropy
   
 * Ben-Naim, Arieh. (2010) `Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a Law of Nature`_. World Scientific.
 
-  * This is a sequel to the author's book entitled *Entropy Demystified* (Published by World Scientific, 2007).
+  * This is a sequel to the author's book entitled *Entropy Demystified* (2007).
   
 * Dugdale, J. S. (1996). `Entropy and its Physical Meaning`_. Taylor & Francis.
 
