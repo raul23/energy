@@ -12,6 +12,11 @@ Entropy
 
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
   * "This book outlines the **history** of the formulation of these two notions." [EnergyAndEntropy]_
+  
+* Dugdale, J. S. (1996). *Entropy and its Physical Meaning*. Taylor & Francis.
+
+  * "This text gives students a clear and easily understood introduction to entropy - a central 
+    concept in thermodynamics, but one which is often regarded as the most difficult to grasp." [EntropyPhysicalMeaning]_
 
 Thermodynamics
 ==============
@@ -20,7 +25,7 @@ Non-technical
 * Goldstein, Martin & Inge F. (1993). *The Refrigerator and the Universe*. Harvard University Press. 
 
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
-  * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratoruoUniv]_
+  * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratorUniv]_
   
 External links
 ==============
@@ -30,7 +35,8 @@ External links
 References
 ==========
 .. [EnergyAndEntropy] https://archive.org/details/EnergyAndEntropy
-.. [RefrigeratoruoUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
+.. [EntropyPhysicalMeaning] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
+.. [RefrigeratorUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 
 .. URLs
 .. _List of textbooks in thermodynamics and statistical mechanics: https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics
