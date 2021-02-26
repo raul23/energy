@@ -6,14 +6,14 @@ Energy-related books
    :local:
    :backlinks: top
 
-Books on entropy
-================
+Entropy
+=======
 * Alekseev, G.N. (1986). *Energy and Entropy*. Moscow: Mir Publishers.
 
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
 
-Thermodynamics textbooks
-========================
+Thermodynamics
+==============
 Non-technical
 -------------
 * Goldstein, Martin & Inge F. (1993). *The Refrigerator and the Universe*. Harvard University Press. 
