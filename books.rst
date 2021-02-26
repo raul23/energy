@@ -28,12 +28,16 @@ Entropy
 
 Thermodynamics
 ==============
-Non-technical
--------------
+Non-technical texts
+-------------------
 * Goldstein, Martin & Inge F. (1993). *The Refrigerator and the Universe*. Harvard University Press. 
 
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
   * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratorUniv]_
+  
+Undergraduate texts
+-------------------
+* Joon Chang Lee. (2002) *Thermal Physics: Entropy and Free Energies*, 2nd ed. World Scientific.
   
 External links
 ==============
