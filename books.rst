@@ -15,7 +15,12 @@ Entropy
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
   * "This book outlines the **history** of the formulation of these two notions." [EnergyAndEntropy]_
   
-* Dugdale, J. S. (1996). *Entropy and its Physical Meaning*. Taylor & Francis.
+* Ben-Naim, Arieh. (2010) `Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a
+Law of Nature`_. World Scientific.
+
+  * This is a sequel to the author's book entitled *Entropy Demystified* (Published by World Scientific, 2007).
+  
+* Dugdale, J. S. (1996). `Entropy and its Physical Meaning`_. Taylor & Francis.
 
   * "This text gives students a clear and easily understood introduction to entropy - a central 
     concept in thermodynamics, but one which is often regarded as the most difficult to grasp." [EntropyPhysicalMeaning]_
@@ -41,4 +46,7 @@ References
 .. [RefrigeratorUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 
 .. URLs
+.. _Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a
+Law of Nature: https://www.amazon.com/Discover-Entropy-Second-Law-Thermodynamics/dp/9814299758
+.. _Entropy and its Physical Meaning: https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. _List of textbooks in thermodynamics and statistical mechanics: https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics
