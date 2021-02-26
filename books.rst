@@ -1,6 +1,8 @@
 ====================
 Energy-related books
 ====================
+Not an exhaustive list. Only 5 to 10 interesting books for each category.
+
 .. contents:: **Contents**
    :depth: 3
    :local:
