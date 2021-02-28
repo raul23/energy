@@ -28,5 +28,5 @@ Quotes about thermodynamics
 References
 ==========
 .. [EntropyNeumann] https://www.jstor.org/stable/24923125
-.. [EntropyShannon] https://www.tandfonline.com/doi/abs/10.1080/0161-118591859898
+.. [EntropyShannon] ROBERT PRICE (1985) A CONVERSATION WITH CLAUDE SHANNON ONE MAN'S APPROACH TO PROBLEM SOLVING, Cryptologia, 9:2, 167-175, DOI: 10.1080/0161-118591859898
 .. [WikiQuoteBoltzmann] https://en.wikiquote.org/wiki/Ludwig_Boltzmann
