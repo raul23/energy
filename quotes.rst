@@ -12,7 +12,7 @@ Quotes about energy
 ===================
 * Available energy is the main object at stake in the struggle for existence and the evolution of the world.
 
-  * Attributed to Ludwig Boltzmann [WikiQuoteBoltzmann]_
+  * Attributed to Ludwig Boltzmann [EnergyBoltzmann]_
   
 Quotes about entropy
 ====================
@@ -30,7 +30,7 @@ Quotes about thermodynamics
   
 References
 ==========
+.. [EnergyBoltzmann] Ludwig Boltzmann. (2019, October 4). *Wikiquote*. Retrieved 21:57, February 28, 2021 from https://en.wikiquote.org/w/index.php?title=Ludwig_Boltzmann&oldid=2679581.
 .. [EntropyNeumann] Tribus, M., & McIrvine, E. (1971). ENERGY AND INFORMATION. *Scientific American, 225*\(3), 179-190. Retrieved February 28, 2021, from http://www.jstor.org/stable/24923125
 .. [EntropyShannon] ROBERT PRICE (1985) A CONVERSATION WITH CLAUDE SHANNON ONE MAN'S APPROACH TO PROBLEM SOLVING, Cryptologia, 9:2, 167-175, DOI: `10.1080/0161-118591859898 <https://doi.org/10.1080/0161-118591859898>`_
 .. [ThermodynamicsEinstein] Albert Einstein (author), Paul Arthur, Schilpp (editor). *Autobiographical Notes. A Centennial Edition.* Open Court Publishing Company. 1979. p. 31
-.. [WikiQuoteBoltzmann] Ludwig Boltzmann. (2019, October 4). *Wikiquote*. Retrieved 21:57, February 28, 2021 from https://en.wikiquote.org/w/index.php?title=Ludwig_Boltzmann&oldid=2679581.
