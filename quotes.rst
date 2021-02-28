@@ -18,7 +18,7 @@ Quotes about entropy
 ====================
 * You should call it entropy, because nobody knows what entropy really is
 
-  * Attributed to John von Neumann who suggested Claude Shannon what to call his famous measure [EntropyNeumann]_
+  * Attributed to John von Neumann who allegedly suggested Claude Shannon what to call his famous measure [EntropyNeumann]_
   * However, in an interview conducted by Robert Price, 28 July 1982, Claude Shannon said that he doesn't think that
     John von Neumann suggested the word "entropy" to him [EntropyShannon]_.
 
