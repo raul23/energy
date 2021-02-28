@@ -30,7 +30,7 @@ Quotes about thermodynamics
   
 References
 ==========
-.. [EntropyNeumann] Tribus, M., & McIrvine, E. (1971). ENERGY AND INFORMATION. *Scientific American, 225*(3), 179-190. Retrieved February 28, 2021, from http://www.jstor.org/stable/24923125
+.. [EntropyNeumann] Tribus, M., & McIrvine, E. (1971). ENERGY AND INFORMATION. *Scientific American, 225*\(3), 179-190. Retrieved February 28, 2021, from http://www.jstor.org/stable/24923125
 .. [EntropyShannon] ROBERT PRICE (1985) A CONVERSATION WITH CLAUDE SHANNON ONE MAN'S APPROACH TO PROBLEM SOLVING, Cryptologia, 9:2, 167-175, DOI: `10.1080/0161-118591859898 <https://doi.org/10.1080/0161-118591859898>`_
 .. [ThermodynamicsEinstein] Albert Einstein (author), Paul Arthur, Schilpp (editor). *Autobiographical Notes. A Centennial Edition.* Open Court Publishing Company. 1979. p. 31
 .. [WikiQuoteBoltzmann] https://en.wikiquote.org/wiki/Ludwig_Boltzmann
