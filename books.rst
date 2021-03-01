@@ -24,7 +24,7 @@ Entropy
 * Dugdale, J. S. (1996). `Entropy and its Physical Meaning`_. Taylor & Francis.
 
   * "This text gives students a clear and easily understood introduction to entropy - a central 
-    concept in thermodynamics, but one which is often regarded as the most difficult to grasp." [EntropyPhysicalMeaning]_
+    concept in thermodynamics, but one which is often regarded as the most difficult to grasp." [AmazonEntropyPhysicalMeaning]_
 
 Thermodynamics
 ==============
@@ -48,8 +48,8 @@ External links
 
 References
 ==========
+.. [AmazonEntropyPhysicalMeaning] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. [EnergyAndEntropy] https://archive.org/details/EnergyAndEntropy
-.. [EntropyPhysicalMeaning] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed., p. ix). preface, World Scientific. 
 .. [WikiRefrigeratorUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 
