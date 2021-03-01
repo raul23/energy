@@ -40,6 +40,11 @@ Thermodynamics
 ==============
 Non-technical texts
 -------------------
+* Atkins, P. W. (2010). `The laws of thermodynamics: a very short introduction`_. Oxford University Press. 
+
+  * "Written by Peter Atkins, one of the world's leading authorities on thermodynamics, this powerful and compact introduction explains 
+    what these four laws are and how they work, using accessible language and virtually no mathematics" [LawsOfThermodynamics_Amazon]
+
 * Goldstein, M. & Inge F. (1993). `The Refrigerator and the Universe`_. Harvard University Press. 
 
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
@@ -77,6 +82,7 @@ References
 .. [EntropyPhysicalMeaning_Amazon] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. [EnergyAndEntropy_Archive] https://archive.org/details/EnergyAndEntropy
 .. [EnergyEntropyDynamicDuo] Leff, H.S. (2020). *Energy and Entropy: A Dynamic Duo* (1st ed., p.xv). preface, CRC Press.
+.. [LawsOfThermodynamics_Amazon] https://www.amazon.com/Laws-Thermodynamics-Very-Short-Introduction/dp/0199572194
 .. [MereThermodynamics] Lemons, D. S. (2008). *Mere Thermodynamics* (p. xi). preface, Johns Hopkins University Press. 
 .. [ModernThermodynamics] Kondepudi, D., & Prigogine, I. (2014). Preface to the Second Edition. In *Modern Thermodynamics: From Heat Engines to Dissipative Structures* (2nd ed., p. xiii). preface, John Wiley & Sons.
 .. [RefrigeratorUniv_Wikipedia] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
@@ -93,5 +99,6 @@ References
 .. _List of textbooks in thermodynamics and statistical mechanics - Wikipedia: https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics
 .. _Mere Thermodynamics: https://www.amazon.com/Mere-Thermodynamics-Don-S-Lemons/dp/0801890152
 .. _Modern Thermodynamics\: From Heat Engines to Dissipative Structures: https://www.amazon.com/Modern-Thermodynamics-Dissipative-Structures-Coursesmart/dp/111837181X
+.. _The laws of thermodynamics\: a very short introduction: https://www.amazon.com/Laws-Thermodynamics-Very-Short-Introduction/dp/0199572194
 .. _The Refrigerator and the Universe: https://www.amazon.com/Refrigerator-Universe-Understanding-Laws-Energy/dp/0674753240
 .. _Thermal physics\: entropy and free energies: https://www.amazon.com/Thermal-Physics-Entropy-Free-Energies/dp/9810248741
