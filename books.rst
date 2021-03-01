@@ -45,6 +45,14 @@ Non-technical texts
   * "Written by Peter Atkins, one of the world's leading authorities on thermodynamics, this powerful and compact introduction explains 
     what these four laws are and how they work, using accessible language and virtually no mathematics" [LawsOfThermodynamics_Amazon]_
 
+* Atkins, P. W. (1984). `The second law`_. Scientific American Library. 
+
+  * You can borrow it from `archive.org <https://archive.org/details/secondlaw0000atki>`_
+  * "In the pages that follow, I try to avoid all mathematics,and though there is the occasional equation when a particular point 
+    has to be made, I assume very little scientific background." [SecondLaw]
+  * "The novelist and physicist C. P. Snow once remarked that not knowing the Second Law of thermodynamics was analogous to never 
+    having read a work of Shakespeare's." [SecondLaw_Amazon]
+
 * Goldstein, M. & Inge F. (1993). `The Refrigerator and the Universe`_. Harvard University Press. 
 
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
@@ -90,6 +98,8 @@ References
 .. [MereThermodynamics] Lemons, D. S. (2008). *Mere Thermodynamics* (p. xi). preface, Johns Hopkins University Press. 
 .. [ModernThermodynamics] Kondepudi, D., & Prigogine, I. (2014). Preface to the Second Edition. In *Modern Thermodynamics: From Heat Engines to Dissipative Structures* (2nd ed., p. xiii). preface, John Wiley & Sons.
 .. [RefrigeratorUniv_Wikipedia] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
+.. [SecondLaw] Atkins, P. W. (1984). *The second law* (pp. vii-viii). preface, Scientific American Library. 
+.. [SecondLaw_Amazon] https://www.amazon.com/Second-Law-Scientific-American-Library/dp/071675004X
 .. [StudentsGuideEntropy_Amazon] https://www.amazon.com/Students-Guide-Entropy-Guides-dp-1107653975/dp/1107653975
 .. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (1st ed., p. ix). preface, World Scientific. 
 
@@ -105,5 +115,6 @@ References
 .. _Modern Thermodynamics\: From Heat Engines to Dissipative Structures: https://www.amazon.com/Modern-Thermodynamics-Dissipative-Structures-Coursesmart/dp/111837181X
 .. _The laws of thermodynamics\: a very short introduction: https://www.amazon.com/Laws-Thermodynamics-Very-Short-Introduction/dp/0199572194
 .. _The Refrigerator and the Universe: https://www.amazon.com/Refrigerator-Universe-Understanding-Laws-Energy/dp/0674753240
+.. _The second law: https://www.amazon.com/Second-Law-Scientific-American-Library/dp/071675004X
 .. _Thermal physics\: entropy and free energies: https://www.amazon.com/Thermal-Physics-Entropy-Free-Energies/dp/9810248741
 .. _Understanding thermodynamics: https://www.amazon.com/Understanding-Thermodynamics-Dover-Books-Physics/dp/0486632776
