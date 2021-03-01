@@ -20,8 +20,8 @@ Quotes about entropy
 
   * Attributed to **John von Neumann** who allegedly suggested to Claude Shannon what to call his famous measure [EntropyNeumann]_
   * However, in an interview conducted by Robert Price, 28 July 1982, Claude Shannon said that he is quite sure that
-    John von Neumann didn't suggest the word "entropy" to him [EntropyShannon1]_. Manuscript of the taped interview can be also find
-    at *The Engineering and Technology History Wiki (ETHW)* [EntropyShannon2]_.
+    John von Neumann didn't suggest the word "entropy" to him [EntropyShannon]_. Manuscript of the taped interview can be also find
+    at `*The Engineering and Technology History Wiki (ETHW)* <https://ethw.org/Oral-History:Claude_E._Shannon>`_.
 
 Quotes about thermodynamics
 ===========================
@@ -33,6 +33,5 @@ References
 ==========
 .. [EnergyBoltzmann] Ludwig Boltzmann. (2019, October 4). *Wikiquote*. Retrieved 21:57, February 28, 2021 from https://en.wikiquote.org/w/index.php?title=Ludwig_Boltzmann&oldid=2679581.
 .. [EntropyNeumann] Tribus, M., & McIrvine, E. (1971). ENERGY AND INFORMATION. *Scientific American, 225*\(3), 179-190. Retrieved February 28, 2021, from http://www.jstor.org/stable/24923125
-.. [EntropyShannon1] Price, R. (1985) A CONVERSATION WITH CLAUDE SHANNON ONE MAN'S APPROACH TO PROBLEM SOLVING, Cryptologia, 9:2, 167-175, DOI: `10.1080/0161-118591859898 <https://doi.org/10.1080/0161-118591859898>`_
-.. [EntropyShannon2] Claude E. Shannon, an oral history conducted in 1982 by Robert Price. IEEE History Center, Piscataway, NJ, USA, from https://ethw.org/Oral-History:Claude_E._Shannon
+.. [EntropyShannon] Price, R. (1985) A CONVERSATION WITH CLAUDE SHANNON ONE MAN'S APPROACH TO PROBLEM SOLVING, Cryptologia, 9:2, 167-175, DOI: `10.1080/0161-118591859898 <https://doi.org/10.1080/0161-118591859898>`_
 .. [ThermodynamicsEinstein] Schilpp, P. A. (Ed.). (1970). Albert Einstein: Autobiographical Notes. In *Albert Einstein: Philosopher-Scientist* (Vol. 7, Ser. The Library of Living Philosophers, p. 33). MJF Books. 
