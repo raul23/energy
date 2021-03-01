@@ -12,13 +12,13 @@ Quotes about energy
 ===================
 * "Available energy is the main object at stake in the struggle for existence and the evolution of the world."
 
-  * Attributed to Ludwig Boltzmann [EnergyBoltzmann]_
+  * Attributed to **Ludwig Boltzmann** [EnergyBoltzmann]_
   
 Quotes about entropy
 ====================
 * "You should call it entropy, because nobody knows what entropy really is"
 
-  * Attributed to John von Neumann who allegedly suggested to Claude Shannon what to call his famous measure [EntropyNeumann]_
+  * Attributed to **John von Neumann** who allegedly suggested to Claude Shannon what to call his famous measure [EntropyNeumann]_
   * However, in an interview conducted by Robert Price, 28 July 1982, Claude Shannon said that he is quite sure that
     John von Neumann didn't suggest the word "entropy" to him [EntropyShannon]_.
 
@@ -26,7 +26,7 @@ Quotes about thermodynamics
 ===========================
 * "A theory is the more impressive the greater the simplicity of its premises, the more different kinds of things it relates, and the more extended its area of applicability. Therefore the deep impression that classical thermodynamics made upon me. It is the only physical theory of universal content which I am convinced will never be overthrown, within the framework of applicability of its basic concepts."
   
-  * Albert Einstein [ThermodynamicsEinstein]_
+  * **Albert Einstein** [ThermodynamicsEinstein]_
   
 References
 ==========
