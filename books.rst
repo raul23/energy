@@ -28,8 +28,8 @@ Entropy
 
 * Lemons, D. (2013). `A Student's Guide to Entropy (Student's Guides)`_. Cambridge: Cambridge University Press.
 
-   * "Striving to explore the subject in as simple a manner as possible, this book helps readers understand the elusive concept 
-     of entropy." [AmazonStudentsGuideEntropy]
+  * "Striving to explore the subject in as simple a manner as possible, this book helps readers understand the elusive concept 
+    of entropy." [AmazonStudentsGuideEntropy]
 
 Thermodynamics
 ==============
