@@ -59,7 +59,13 @@ Undergraduate texts
 * Lee, J. C. (2002). `Thermal physics: entropy and free energies`_ (1st ed.). World Scientific. 
 
   * "This book can be used as a supplementary textbook, or preferably, even before taking the course, as an introduction" [ThermalPhysics]_
-  
+
+* Lemons, D. S. (2008). `Mere Thermodynamics`_. Johns Hopkins University Press. 
+
+  * "In spite of the book’s title, I do, on occasion, invoke the molecular hypothesis—that matter is composed of molecules—in order to motivate 
+    unfamiliar equations of state. But statistical methods, quantum concepts, and chemical reactions define, by their exclusion, the boundary 
+    of Mere Thermodynamics." [MereThermodynamics]_
+
 External links
 ==============
 * `List of textbooks in thermodynamics and statistical mechanics - Wikipedia`_
@@ -71,6 +77,7 @@ References
 .. [EntropyPhysicalMeaning_Amazon] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. [EnergyAndEntropy_Archive] https://archive.org/details/EnergyAndEntropy
 .. [EnergyEntropyDynamicDuo] Leff, H.S. (2020). *Energy and Entropy: A Dynamic Duo* (1st ed., p.xv). preface, CRC Press.
+.. [MereThermodynamics] Lemons, D. S. (2008). *Mere Thermodynamics* (p. xi). preface, Johns Hopkins University Press. 
 .. [ModernThermodynamics] Kondepudi, D., & Prigogine, I. (2014). Preface to the Second Edition. In *Modern Thermodynamics: From Heat Engines to Dissipative Structures* (2nd ed., p. xiii). preface, John Wiley & Sons.
 .. [RefrigeratorUniv_Wikipedia] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 .. [StudentsGuideEntropy_Amazon] https://www.amazon.com/Students-Guide-Entropy-Guides-dp-1107653975/dp/1107653975
@@ -84,6 +91,7 @@ References
 .. _Energy and Entropy\: A Dynamic Duo: https://www.amazon.com/Energy-Entropy-Harvey-S-Leff/dp/036734906X
 .. _Entropy and its Physical Meaning: https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. _List of textbooks in thermodynamics and statistical mechanics - Wikipedia: https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics
+.. _Mere Thermodynamics: https://www.amazon.com/Mere-Thermodynamics-Don-S-Lemons/dp/0801890152
 .. _Modern Thermodynamics\: From Heat Engines to Dissipative Structures: https://www.amazon.com/Modern-Thermodynamics-Dissipative-Structures-Coursesmart/dp/111837181X
 .. _The Refrigerator and the Universe: https://www.amazon.com/Refrigerator-Universe-Understanding-Laws-Energy/dp/0674753240
 .. _Thermal physics\: entropy and free energies: https://www.amazon.com/Thermal-Physics-Entropy-Free-Energies/dp/9810248741
