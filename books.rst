@@ -40,7 +40,7 @@ Thermodynamics
 ==============
 Non-technical texts
 -------------------
-* Goldstein, M. & Inge F. (1993). *The Refrigerator and the Universe*. Harvard University Press. 
+* Goldstein, M. & Inge F. (1993). `The Refrigerator and the Universe`_. Harvard University Press. 
 
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
   * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratorUniv_Wikipedia]_
@@ -51,7 +51,7 @@ Non-technical texts
 
 Undergraduate texts
 -------------------
-* Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed.). World Scientific. 
+* Lee, J. C. (2002). `Thermal physics: entropy and free energies`_ (2nd ed.). World Scientific. 
 
   * "This book can be used as a supplementary textbook, or preferably, even before taking the course, as an introduction" [ThermalPhysics]_
   
@@ -78,3 +78,5 @@ References
 .. _Energy and Entropy\: A Dynamic Duo: https://www.amazon.com/Energy-Entropy-Harvey-S-Leff/dp/036734906X
 .. _Entropy and its Physical Meaning: https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. _List of textbooks in thermodynamics and statistical mechanics - Wikipedia: https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics
+.. _The Refrigerator and the Universe: https://www.amazon.com/Refrigerator-Universe-Understanding-Laws-Energy/dp/0674753240
+.. _Thermal physics\: entropy and free energies: https://www.amazon.com/Thermal-Physics-Entropy-Free-Energies/dp/9814340766
