@@ -16,7 +16,7 @@ Quotes about energy
   
 Quotes about entropy
 ====================
-* "You should call it entropy, because nobody knows what entropy really is"
+* "You should call it entropy, for two reasons: In the first place your uncertainty function has been used in statistical mechanics under that name, so it already has a name. In the second place, and more important, nobody knows what entropy really is, so in a debate you will always have the advantage"
 
   * Attributed to **John von Neumann** who allegedly suggested to Claude Shannon what to call his famous measure [EntropyNeumann]_
   * However, in an interview conducted by Robert Price, 28 July 1982, Claude Shannon said that he is quite sure that
