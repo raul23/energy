@@ -43,7 +43,7 @@ Non-technical texts
 * Atkins, P. W. (2010). `The laws of thermodynamics: a very short introduction`_. Oxford University Press. 
 
   * "Written by Peter Atkins, one of the world's leading authorities on thermodynamics, this powerful and compact introduction explains 
-    what these four laws are and how they work, using accessible language and virtually no mathematics" [LawsOfThermodynamics_Amazon]
+    what these four laws are and how they work, using accessible language and virtually no mathematics" [LawsOfThermodynamics_Amazon]_
 
 * Goldstein, M. & Inge F. (1993). `The Refrigerator and the Universe`_. Harvard University Press. 
 
