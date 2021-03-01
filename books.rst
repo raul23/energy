@@ -15,7 +15,7 @@ Entropy
 * Alekseev, G.N. (1986). `Energy and Entropy`_. Moscow: Mir Publishers.
 
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
-  * "This book outlines the **history** of the formulation of these two notions." [EnergyAndEntropy_Archive]_
+  * "This book outlines the history of the formulation of these two notions." [EnergyAndEntropy_Archive]_
   
 * Ben-Naim, A. (2010) `Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a Law of Nature`_. World Scientific.
 
