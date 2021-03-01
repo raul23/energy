@@ -12,7 +12,7 @@ Quotes about energy
 ===================
 * "Available energy is the main object at stake in the struggle for existence and the evolution of the world."
 
-  * Attributed to **Ludwig Boltzmann** [EnergyBoltzmann]_; no direct source found.
+  * Attributed to **Ludwig Boltzmann** [EnergyBoltzmann]_. No direct source found.
   
 Quotes about entropy
 ====================
