@@ -44,7 +44,11 @@ Non-technical texts
 
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
   * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratorUniv_Wikipedia]_
-  
+
+* Hanlon, R. T. (2020). *Block by block: the historical and theoretical foundations of thermodynamics*. Oxford University Press. 
+
+  * "This book is not a textbook. I intentionally chose not to delve into the use of equations to solve problems; this is covered very well and very extensively in many high-quality textbooks." [BlockByBlock]
+
 Undergraduate texts
 -------------------
 * Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed.). World Scientific. 
@@ -58,9 +62,10 @@ External links
 
 References
 ==========
+.. [BlockByBlock] Hanlon, R. T. (2020). *Block by block: the historical and theoretical foundations of thermodynamics* (p. xx). introduction, Oxford University Press. 
 .. [EntropyPhysicalMeaning_Amazon] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. [EnergyAndEntropy_Archive] https://archive.org/details/EnergyAndEntropy
-.. [EnergyEntropyDynamicDuo] Leff, H.S. (2020). Energy and Entropy: A Dynamic Duo (1st ed., p.xv). preface, CRC Press.
+.. [EnergyEntropyDynamicDuo] Leff, H.S. (2020). *Energy and Entropy: A Dynamic Duo* (1st ed., p.xv). preface, CRC Press.
 .. [RefrigeratorUniv_Wikipedia] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 .. [StudentsGuideEntropy_Amazon] https://www.amazon.com/Students-Guide-Entropy-Guides-dp-1107653975/dp/1107653975
 .. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed., p. ix). preface, World Scientific. 
