@@ -29,7 +29,7 @@ Entropy
 * Leff, H.S. (2020). Energy and Entropy: A Dynamic Duo (1st ed.). CRC Press.
 
   * "The primary goal of this book is to illuminate energy and entropy, the two pillars of thermodynamics, and to clarify 
-    their essential linkage." [EnergyEntropyDynamicDuo]
+    their essential linkage." [EnergyEntropyDynamicDuo]_
 
 * Lemons, D. (2013). `A Student's Guide to Entropy (Student's Guides)`_. Cambridge: Cambridge University Press.
 
