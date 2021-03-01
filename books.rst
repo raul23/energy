@@ -45,7 +45,7 @@ Non-technical texts
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
   * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratorUniv_Wikipedia]_
 
-* Hanlon, R. T. (2020). *Block by block: the historical and theoretical foundations of thermodynamics*. Oxford University Press. 
+* Hanlon, R. T. (2020). `Block by block: the historical and theoretical foundations of thermodynamics`_. Oxford University Press. 
 
   * "This book is not a textbook. I intentionally chose not to delve into the use of equations to solve problems; this is covered very well and very extensively in many high-quality textbooks." [BlockByBlock]_
 
@@ -72,6 +72,7 @@ References
 
 .. URLs
 .. _A Student's Guide to Entropy (Student's Guides): https://www.amazon.com/Students-Guide-Entropy-Guides-ebook/dp/B00EZ3VHK0
+.. _Block by block\: the historical and theoretical foundations of thermodynamics: https://www.amazon.com/Block-Historical-Theoretical-Foundations-Thermodynamics/dp/0198851545
 .. _Discover Entropy and the Second Law of Thermodynamics\: A Playful Way of Discovering a Law of Nature: https://www.amazon.com/Discover-Entropy-Second-Law-Thermodynamics/dp/9814299758
 .. _Energy and Entropy: https://www.amazon.com/Energy-Entropy-G-N-Alekseev/dp/0828532958
 .. _Energy and Entropy\: A Dynamic Duo: https://www.amazon.com/Energy-Entropy-Harvey-S-Leff/dp/036734906X
