@@ -54,7 +54,7 @@ External links
 References
 ==========
 .. [AmazonEntropyPhysicalMeaning] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
-.. [AmazonStudentsGuideEntropy] https://www.amazon.com/Students-Guide-Entropy-Guides-ebook/dp/B00EZ3VHK0
+.. [AmazonStudentsGuideEntropy] https://www.amazon.com/Students-Guide-Entropy-Guides-dp-1107653975/dp/1107653975
 .. [EnergyAndEntropy] https://archive.org/details/EnergyAndEntropy
 .. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed., p. ix). preface, World Scientific. 
 .. [WikiRefrigeratorUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
