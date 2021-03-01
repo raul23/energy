@@ -15,7 +15,7 @@ Entropy
 * Alekseev, G.N. (1986). `Energy and Entropy`_. Moscow: Mir Publishers.
 
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
-  * "This book outlines the **history** of the formulation of these two notions." [EnergyAndEntropy]_
+  * "This book outlines the **history** of the formulation of these two notions." [EnergyAndEntropy_Archive]_
   
 * Ben-Naim, A. (2010) `Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a Law of Nature`_. World Scientific.
 
@@ -24,12 +24,17 @@ Entropy
 * Dugdale, J. S. (1996). `Entropy and its Physical Meaning`_. Taylor & Francis.
 
   * "This text gives students a clear and easily understood introduction to entropy - a central 
-    concept in thermodynamics, but one which is often regarded as the most difficult to grasp." [AmazonEntropyPhysicalMeaning]_
+    concept in thermodynamics, but one which is often regarded as the most difficult to grasp." [EntropyPhysicalMeaning_Amazon]_
+
+* Leff, H.S. (2020). Energy and Entropy: A Dynamic Duo (1st ed.). CRC Press.
+
+  * "The primary goal of this book is to illuminate energy and entropy, the two pillars of thermodynamics, and to clarify 
+    their essential linkage." [EnergyEntropyDynamicDuo]
 
 * Lemons, D. (2013). `A Student's Guide to Entropy (Student's Guides)`_. Cambridge: Cambridge University Press.
 
   * "Striving to explore the subject in as simple a manner as possible, this book helps readers understand the elusive concept 
-    of entropy." [AmazonStudentsGuideEntropy]_
+    of entropy." [StudentsGuideEntropy_Amazon]_
 
 Thermodynamics
 ==============
@@ -38,7 +43,7 @@ Non-technical texts
 * Goldstein, M. & Inge F. (1993). *The Refrigerator and the Universe*. Harvard University Press. 
 
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
-  * "A nontechnical introduction, good on historical and interpretive matters." [WikiRefrigeratorUniv]_
+  * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratorUniv_Wiki]_
   
 Undergraduate texts
 -------------------
@@ -53,11 +58,12 @@ External links
 
 References
 ==========
-.. [AmazonEntropyPhysicalMeaning] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
-.. [AmazonStudentsGuideEntropy] https://www.amazon.com/Students-Guide-Entropy-Guides-dp-1107653975/dp/1107653975
-.. [EnergyAndEntropy] https://archive.org/details/EnergyAndEntropy
+.. [EntropyPhysicalMeaning_Amazon] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
+.. [StudentsGuideEntropy_Amazon] https://www.amazon.com/Students-Guide-Entropy-Guides-dp-1107653975/dp/1107653975
+.. [EnergyAndEntropy_Archive] https://archive.org/details/EnergyAndEntropy
+.. [EnergyEntropyDynamicDuo] 
 .. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed., p. ix). preface, World Scientific. 
-.. [WikiRefrigeratorUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
+.. [RefrigeratorUniv_Wiki] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 
 .. URLs
 .. _A Student's Guide to Entropy (Student's Guides): https://www.amazon.com/Students-Guide-Entropy-Guides-ebook/dp/B00EZ3VHK0
