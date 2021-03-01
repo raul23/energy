@@ -12,7 +12,7 @@ Entropy
 ======
 **NOTE:** books primarily focused on entropy
 
-* Alekseev, G.N. (1986). *Energy and Entropy*. Moscow: Mir Publishers.
+* Alekseev, G.N. (1986). `Energy and Entropy`_. Moscow: Mir Publishers.
 
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
   * "This book outlines the **history** of the formulation of these two notions." [EnergyAndEntropy]_
@@ -55,5 +55,6 @@ References
 
 .. URLs
 .. _Discover Entropy and the Second Law of Thermodynamics\: A Playful Way of Discovering a Law of Nature: https://www.amazon.com/Discover-Entropy-Second-Law-Thermodynamics/dp/9814299758
+.. _Energy and Entropy: https://www.amazon.com/Energy-Entropy-G-N-Alekseev/dp/0828532958
 .. _Entropy and its Physical Meaning: https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. _List of textbooks in thermodynamics and statistical mechanics - Wikipedia: https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics
