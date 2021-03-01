@@ -20,7 +20,8 @@ Quotes about entropy
 
   * Attributed to **John von Neumann** who allegedly suggested to Claude Shannon what to call his famous measure [EntropyNeumann]_
   * However, in an interview conducted by Robert Price, 28 July 1982, Claude Shannon said that he is quite sure that
-    John von Neumann didn't suggest the word "entropy" to him [EntropyShannon1]_ [EntropyShannon2]_.
+    John von Neumann didn't suggest the word "entropy" to him [EntropyShannon1]_. Manuscript of the taped interview can be also find
+    online [EntropyShannon2]_.
 
 Quotes about thermodynamics
 ===========================
