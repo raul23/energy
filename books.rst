@@ -51,7 +51,7 @@ Non-technical texts
 
 Undergraduate texts
 -------------------
-* Lee, J. C. (2002). `Thermal physics: entropy and free energies`_ (2nd ed.). World Scientific. 
+* Lee, J. C. (2002). `Thermal physics: entropy and free energies`_ (1st ed.). World Scientific. 
 
   * "This book can be used as a supplementary textbook, or preferably, even before taking the course, as an introduction" [ThermalPhysics]_
   
@@ -79,4 +79,4 @@ References
 .. _Entropy and its Physical Meaning: https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. _List of textbooks in thermodynamics and statistical mechanics - Wikipedia: https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics
 .. _The Refrigerator and the Universe: https://www.amazon.com/Refrigerator-Universe-Understanding-Laws-Energy/dp/0674753240
-.. _Thermal physics\: entropy and free energies: https://www.amazon.com/Thermal-Physics-Entropy-Free-Energies/dp/9814340766
+.. _Thermal physics\: entropy and free energies: https://www.amazon.com/Thermal-Physics-Entropy-Free-Energies/dp/9810248741
