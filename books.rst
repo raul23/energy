@@ -59,11 +59,11 @@ External links
 References
 ==========
 .. [EntropyPhysicalMeaning_Amazon] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
-.. [StudentsGuideEntropy_Amazon] https://www.amazon.com/Students-Guide-Entropy-Guides-dp-1107653975/dp/1107653975
 .. [EnergyAndEntropy_Archive] https://archive.org/details/EnergyAndEntropy
 .. [EnergyEntropyDynamicDuo] Leff, H.S. (2020). Energy and Entropy: A Dynamic Duo (1st ed., p.xv). preface, CRC Press.
-.. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed., p. ix). preface, World Scientific. 
 .. [RefrigeratorUniv_Wikipedia] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
+.. [StudentsGuideEntropy_Amazon] https://www.amazon.com/Students-Guide-Entropy-Guides-dp-1107653975/dp/1107653975
+.. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed., p. ix). preface, World Scientific. 
 
 .. URLs
 .. _A Student's Guide to Entropy (Student's Guides): https://www.amazon.com/Students-Guide-Entropy-Guides-ebook/dp/B00EZ3VHK0
