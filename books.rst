@@ -17,7 +17,7 @@ Entropy
   * You can get it from `archive.org <https://archive.org/details/EnergyAndEntropy>`_
   * "This book outlines the **history** of the formulation of these two notions." [EnergyAndEntropy]_
   
-* Ben-Naim, Arieh. (2010) `Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a Law of Nature`_. World Scientific.
+* Ben-Naim, A. (2010) `Discover Entropy and the Second Law of Thermodynamics: A Playful Way of Discovering a Law of Nature`_. World Scientific.
 
   * This is a sequel to the author's book entitled *Entropy Demystified* (2007).
   
@@ -30,14 +30,16 @@ Thermodynamics
 ==============
 Non-technical texts
 -------------------
-* Goldstein, Martin & Inge F. (1993). *The Refrigerator and the Universe*. Harvard University Press. 
+* Goldstein, M. & Inge F. (1993). *The Refrigerator and the Universe*. Harvard University Press. 
 
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
   * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratorUniv]_
   
 Undergraduate texts
 -------------------
-* Joon Chang Lee. (2002) *Thermal Physics: Entropy and Free Energies*, 2nd ed. World Scientific.
+* Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed.). World Scientific. 
+   
+   * "This book can be used as a supplementary textbook, or preferably, even before taking the course, as an introduction" [ThermalPhysics]
   
 External links
 ==============
@@ -49,6 +51,7 @@ References
 .. [EnergyAndEntropy] https://archive.org/details/EnergyAndEntropy
 .. [EntropyPhysicalMeaning] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. [RefrigeratorUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
+.. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed., p. ix). preface, World Scientific. 
 
 .. URLs
 .. _Discover Entropy and the Second Law of Thermodynamics\: A Playful Way of Discovering a Law of Nature: https://www.amazon.com/Discover-Entropy-Second-Law-Thermodynamics/dp/9814299758
