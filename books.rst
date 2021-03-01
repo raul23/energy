@@ -26,7 +26,7 @@ Entropy
   * "This text gives students a clear and easily understood introduction to entropy - a central 
     concept in thermodynamics, but one which is often regarded as the most difficult to grasp." [EntropyPhysicalMeaning_Amazon]_
 
-* Leff, H.S. (2020). Energy and Entropy: A Dynamic Duo (1st ed.). CRC Press.
+* Leff, H.S. (2020). `Energy and Entropy: A Dynamic Duo`_ (1st ed.). CRC Press.
 
   * "The primary goal of this book is to illuminate energy and entropy, the two pillars of thermodynamics, and to clarify 
     their essential linkage." [EnergyEntropyDynamicDuo]_
@@ -74,5 +74,6 @@ References
 .. _A Student's Guide to Entropy (Student's Guides): https://www.amazon.com/Students-Guide-Entropy-Guides-ebook/dp/B00EZ3VHK0
 .. _Discover Entropy and the Second Law of Thermodynamics\: A Playful Way of Discovering a Law of Nature: https://www.amazon.com/Discover-Entropy-Second-Law-Thermodynamics/dp/9814299758
 .. _Energy and Entropy: https://www.amazon.com/Energy-Entropy-G-N-Alekseev/dp/0828532958
+.. _Energy and Entropy\: A Dynamic Duo: https://www.amazon.com/Energy-Entropy-Harvey-S-Leff/dp/036734906X
 .. _Entropy and its Physical Meaning: https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. _List of textbooks in thermodynamics and statistical mechanics - Wikipedia: https://en.wikipedia.org/wiki/List_of_textbooks_in_thermodynamics_and_statistical_mechanics
