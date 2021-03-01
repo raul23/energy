@@ -38,8 +38,8 @@ Non-technical texts
 Undergraduate texts
 -------------------
 * Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed.). World Scientific. 
-   
-   * "This book can be used as a supplementary textbook, or preferably, even before taking the course, as an introduction" [ThermalPhysics]
+
+  * "This book can be used as a supplementary textbook, or preferably, even before taking the course, as an introduction" [ThermalPhysics]
   
 External links
 ==============
