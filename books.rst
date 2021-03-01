@@ -42,7 +42,7 @@ Undergraduate texts
 External links
 ==============
 * `List of textbooks in thermodynamics and statistical mechanics`_: Wikipedia
-* Gould, H. (2010). *Textbooks on Statistical Mechanics and Thermodynamics*. Retrieved February 26, 2021, from `<https://www.compadre.org/Repository/document/ServeFile.cfm?ID=10412&DocID=1888>`_
+* `Textbooks on Statistical Mechanics and Thermodynamics <https://www.compadre.org/Repository/document/ServeFile.cfm?ID=10412&DocID=1888>`_
 
 References
 ==========
