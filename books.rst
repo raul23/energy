@@ -96,6 +96,7 @@ External links
 References
 ==========
 .. [BlockByBlock] Hanlon, R. T. (2020). *Block by block: the historical and theoretical foundations of thermodynamics* (p. xx). introduction, Oxford University Press. 
+.. [AnxietyEquation_Amazon] https://www.amazon.com/Anxiety-Equation-Understanding-Boltzmanns-Entropy/dp/0262038617
 .. [EntropyPhysicalMeaning_Amazon] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. [EnergyAndEntropy_Archive] https://archive.org/details/EnergyAndEntropy
 .. [EnergyEntropyDynamicDuo] Leff, H.S. (2020). *Energy and Entropy: A Dynamic Duo* (1st ed., p.xv). preface, CRC Press.
