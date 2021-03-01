@@ -26,6 +26,11 @@ Entropy
   * "This text gives students a clear and easily understood introduction to entropy - a central 
     concept in thermodynamics, but one which is often regarded as the most difficult to grasp." [EntropyPhysicalMeaning_Amazon]_
 
+* Johnson, E. (2018). `Anxiety and the equation. Understanding Boltzmann's Entropy`_. The MIT Press. 
+
+  * "Johnson, accessibly and engagingly, reassembles Boltzmann's equation [NOTE: S = k log W] from its various components and presents 
+    episodes from Boltzmann's life." [AnxietyEquation_Amazon]_
+
 * Leff, H.S. (2020). `Energy and Entropy: A Dynamic Duo`_ (1st ed.). CRC Press.
 
   * "The primary goal of this book is to illuminate energy and entropy, the two pillars of thermodynamics, and to clarify 
@@ -105,6 +110,7 @@ References
 
 .. URLs
 .. _A Student's Guide to Entropy (Student's Guides): https://www.amazon.com/Students-Guide-Entropy-Guides-ebook/dp/B00EZ3VHK0
+.. _Anxiety and the equation. Understanding Boltzmann's Entropy: https://www.amazon.com/Anxiety-Equation-Understanding-Boltzmanns-Entropy/dp/0262038617
 .. _Block by block\: the historical and theoretical foundations of thermodynamics: https://www.amazon.com/Block-Historical-Theoretical-Foundations-Thermodynamics/dp/0198851545
 .. _Discover Entropy and the Second Law of Thermodynamics\: A Playful Way of Discovering a Law of Nature: https://www.amazon.com/Discover-Entropy-Second-Law-Thermodynamics/dp/9814299758
 .. _Energy and Entropy: https://www.amazon.com/Energy-Entropy-G-N-Alekseev/dp/0828532958
