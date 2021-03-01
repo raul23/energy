@@ -28,6 +28,9 @@ Entropy
 
 * Lemons, D. (2013). `A Student's Guide to Entropy (Student's Guides)`_. Cambridge: Cambridge University Press.
 
+   * "Striving to explore the subject in as simple a manner as possible, this book helps readers understand the elusive concept 
+     of entropy." [AmazonStudentsGuideEntropy]
+
 Thermodynamics
 ==============
 Non-technical texts
@@ -51,6 +54,7 @@ External links
 References
 ==========
 .. [AmazonEntropyPhysicalMeaning] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
+.. [AmazonStudentsGuideEntropy] https://www.amazon.com/Students-Guide-Entropy-Guides-ebook/dp/B00EZ3VHK0
 .. [EnergyAndEntropy] https://archive.org/details/EnergyAndEntropy
 .. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed., p. ix). preface, World Scientific. 
 .. [WikiRefrigeratorUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
