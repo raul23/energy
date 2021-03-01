@@ -49,9 +49,9 @@ Non-technical texts
 
   * You can borrow it from `archive.org <https://archive.org/details/secondlaw0000atki>`_
   * "In the pages that follow, I try to avoid all mathematics,and though there is the occasional equation when a particular point 
-    has to be made, I assume very little scientific background." [SecondLaw]
+    has to be made, I assume very little scientific background." [SecondLaw]_
   * "The novelist and physicist C. P. Snow once remarked that not knowing the Second Law of thermodynamics was analogous to never 
-    having read a work of Shakespeare's." [SecondLaw_Amazon]
+    having read a work of Shakespeare's." [SecondLaw_Amazon]_
 
 * Goldstein, M. & Inge F. (1993). `The Refrigerator and the Universe`_. Harvard University Press. 
 
