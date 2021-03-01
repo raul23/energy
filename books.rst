@@ -26,6 +26,8 @@ Entropy
   * "This text gives students a clear and easily understood introduction to entropy - a central 
     concept in thermodynamics, but one which is often regarded as the most difficult to grasp." [AmazonEntropyPhysicalMeaning]_
 
+* Lemons, D. (2013). `A Student's Guide to Entropy (Student's Guides)`_. Cambridge: Cambridge University Press.
+
 Thermodynamics
 ==============
 Non-technical texts
@@ -54,6 +56,7 @@ References
 .. [WikiRefrigeratorUniv] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 
 .. URLs
+.. _A Student's Guide to Entropy (Student's Guides): https://www.amazon.com/Students-Guide-Entropy-Guides-ebook/dp/B00EZ3VHK0
 .. _Discover Entropy and the Second Law of Thermodynamics\: A Playful Way of Discovering a Law of Nature: https://www.amazon.com/Discover-Entropy-Second-Law-Thermodynamics/dp/9814299758
 .. _Energy and Entropy: https://www.amazon.com/Energy-Entropy-G-N-Alekseev/dp/0828532958
 .. _Entropy and its Physical Meaning: https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
