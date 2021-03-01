@@ -43,7 +43,7 @@ Non-technical texts
 * Goldstein, M. & Inge F. (1993). *The Refrigerator and the Universe*. Harvard University Press. 
 
   * You can borrow it from `archive.org <https://archive.org/details/refrigeratoruniv0000gold>`_
-  * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratorUniv_Wiki]_
+  * "A nontechnical introduction, good on historical and interpretive matters." [RefrigeratorUniv_Wikipedia]_
   
 Undergraduate texts
 -------------------
@@ -63,7 +63,7 @@ References
 .. [EnergyAndEntropy_Archive] https://archive.org/details/EnergyAndEntropy
 .. [EnergyEntropyDynamicDuo] Leff, H.S. (2020). Energy and Entropy: A Dynamic Duo (1st ed., p.xv). preface, CRC Press.
 .. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (2nd ed., p. ix). preface, World Scientific. 
-.. [RefrigeratorUniv_Wiki] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
+.. [RefrigeratorUniv_Wikipedia] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 
 .. URLs
 .. _A Student's Guide to Entropy (Student's Guides): https://www.amazon.com/Students-Guide-Entropy-Guides-ebook/dp/B00EZ3VHK0
