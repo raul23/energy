@@ -51,6 +51,11 @@ Non-technical texts
 
 Undergraduate texts
 -------------------
+* Dilip Kondepudi, Ilya Prigogine - Modern Thermodynamics. From heat engines to dissipative structures
+
+  * "Thermodynamics as formulated in the twentieth century, what we chose to call ‘Modern Thermodynamics’ is a theory of irreversible processes in contrast to nineteenth century thermodynamics, which is a theory of states." [ModernThermodynamics1]
+  * "Entropy and entropy-producing irreversible processes are generally thought of as agents of disorder. A central message of this book is that, under far-from-equilibrium conditions, irreversible processes are, in fact, the drivers of self-organization and order we see all around us in Nature." [ModernThermodynamics2]
+
 * Lee, J. C. (2002). `Thermal physics: entropy and free energies`_ (1st ed.). World Scientific. 
 
   * "This book can be used as a supplementary textbook, or preferably, even before taking the course, as an introduction" [ThermalPhysics]_
@@ -66,6 +71,7 @@ References
 .. [EntropyPhysicalMeaning_Amazon] https://www.amazon.com/Entropy-Its-Physical-Meaning-Dugdale/dp/0748405690
 .. [EnergyAndEntropy_Archive] https://archive.org/details/EnergyAndEntropy
 .. [EnergyEntropyDynamicDuo] Leff, H.S. (2020). *Energy and Entropy: A Dynamic Duo* (1st ed., p.xv). preface, CRC Press.
+.. [ModernThermodynamics1] Kondepudi, D., &amp; Prigogine, I. (2014). Preface to the Second Edition. In *Modern Thermodynamics: From Heat Engines to Dissipative Structures* (2nd ed., p. xiii). preface, John Wiley &amp; Sons. 
 .. [RefrigeratorUniv_Wikipedia] https://en.wikipedia.org/wiki/Thermodynamics#Further_reading
 .. [StudentsGuideEntropy_Amazon] https://www.amazon.com/Students-Guide-Entropy-Guides-dp-1107653975/dp/1107653975
 .. [ThermalPhysics] Lee, J. C. (2002). *Thermal physics: entropy and free energies* (1st ed., p. ix). preface, World Scientific. 
