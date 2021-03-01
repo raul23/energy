@@ -70,6 +70,10 @@ Undergraduate texts
   * "In spite of the book’s title, I do, on occasion, invoke the molecular hypothesis—that matter is composed of molecules—in order to motivate 
     unfamiliar equations of state. But statistical methods, quantum concepts, and chemical reactions define, by their exclusion, the boundary 
     of Mere Thermodynamics." [MereThermodynamics]_
+    
+* Van Ness, H. C. (1983). `Understanding thermodynamics`_. Dover.
+
+  * You can borrow it from `archive.org <https://archive.org/details/understandingthe00vann>`_
 
 External links
 ==============
@@ -102,3 +106,4 @@ References
 .. _The laws of thermodynamics\: a very short introduction: https://www.amazon.com/Laws-Thermodynamics-Very-Short-Introduction/dp/0199572194
 .. _The Refrigerator and the Universe: https://www.amazon.com/Refrigerator-Universe-Understanding-Laws-Energy/dp/0674753240
 .. _Thermal physics\: entropy and free energies: https://www.amazon.com/Thermal-Physics-Entropy-Free-Energies/dp/9810248741
+.. _Understanding thermodynamics: https://www.amazon.com/Understanding-Thermodynamics-Dover-Books-Physics/dp/0486632776
