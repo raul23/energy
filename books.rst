@@ -48,7 +48,7 @@ Non-technical texts
 * Atkins, P. W. (1984). `The second law`_. Scientific American Library. 
 
   * You can borrow it from `archive.org <https://archive.org/details/secondlaw0000atki>`_
-  * "In the pages that follow, I try to avoid all mathematics,and though there is the occasional equation when a particular point 
+  * "In the pages that follow, I try to avoid all mathematics, and though there is the occasional equation when a particular point 
     has to be made, I assume very little scientific background." [SecondLaw]_
   * "The novelist and physicist C. P. Snow once remarked that not knowing the Second Law of thermodynamics was analogous to never 
     having read a work of Shakespeare's." [SecondLaw_Amazon]_
