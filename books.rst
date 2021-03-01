@@ -47,7 +47,7 @@ Non-technical texts
 
 * Hanlon, R. T. (2020). *Block by block: the historical and theoretical foundations of thermodynamics*. Oxford University Press. 
 
-  * "This book is not a textbook. I intentionally chose not to delve into the use of equations to solve problems; this is covered very well and very extensively in many high-quality textbooks." [BlockByBlock]
+  * "This book is not a textbook. I intentionally chose not to delve into the use of equations to solve problems; this is covered very well and very extensively in many high-quality textbooks." [BlockByBlock]_
 
 Undergraduate texts
 -------------------
